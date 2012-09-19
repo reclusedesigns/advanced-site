@@ -1,0 +1,165 @@
+/* Andrew Chin does all teh codes and he's not even scared */
+
+
+/* first some universal things */
+/* ______________________________________________________________________*/
+
+/* z indexezz bro */
+.body{z-index:200}
+.table_backer img{z-index:250}
+.home_carousel{z-index:300}
+.gallery_carousel{z-index:320}
+.intro .stage_content img {z-index: 350}
+.fixed_footer{z-index:400}
+
+
+
+/* typography */
+/* ______________________________________________________________________*/
+p{color:#563c3c; font-size:14px; line-height:24px; padding-bottom:24px;}
+h1{color:#fff; font-size:84px; padding-bottom:20px; font-weight:normal;}
+h3{color:#c61716; font-size:36px; line-height:36px; padding-bottom:14px; font-weight:normal;}
+h4{color:#c61716; font-size:24px; line-height:28px; padding-bottom:14px; font-weight:normal;}
+h4 span{color:#999;}
+a{color:#09f;}
+a:hover{text-decoration:underline; color:#09f;}
+
+
+/* finally teh codes */
+/* ______________________________________________________________________*/
+
+.body_push{height:60px;}
+
+/* header */
+.navbar-inner{background:url("../images/header/header_backer.jpg") repeat-x; height:66px; box-shadow: 0 0px 20px #000}
+.navbar-inner .brand{text-indent:-9999px; background:url("../images/header/logo.png") 20px 0 no-repeat; height:48px; width:55px; margin-top:7px; opacity:0.8; transition: opacity .25s ease-in-out; -moz-transition: opacity .25s ease-in-out; -webkit-transition: opacity .25s ease-in-out;}
+.navbar-inner .brand:hover{opacity:1;}
+.navbar-inner .nav li a{color:#563c3c; text-shadow: 0 1px 0 #fff; padding: 23px 20px 23px 40px; border-right:1px solid #fff; border-left:1px solid #d7d7d7; text-transform:uppercase;}
+.navbar-inner .nav li img{top:16px; right:20px; position:relative;}
+.navbar-inner .nav li a.last{border-left:1px solid #d7d7d7; border-right:none; padding: 23px 0	;}
+.navbar-inner .nav li a.first{border-right:1px solid #fff; border-left:none; padding:23px 0;}
+.navbar-inner .nav li a:hover{box-shadow:inset 0 0 20px #ddd; color:#684949; transition: all .25s ease-in-out; -moz-transition: all .25s ease-in-out; -webkit-transition: all .25s ease-in-out;}
+.navbar-inner .nav li a.process{background:url("../images/header/process_icon.png") 20px 50% no-repeat;}
+.navbar-inner .nav li a.projects{background:url("../images/header/gallery_icon.png") 20px 50% no-repeat;}
+.navbar-inner .nav li a.contact{background:url("../images/header/contact_icon.png") 20px 50% no-repeat;}
+
+/* intro */
+.intro .container{position:relative;}
+.intro .zen{background:url("../images/body/stage_background_pattern.jpg"); height:300px;}
+.intro .home_zen{background:url("../images/body/stage_background_pattern.jpg"); height:400px;}
+.intro .table_backer{background:url("../images/body/stage_table_repeater.png") 0 100% repeat-x; height:133px; position:relative;}
+.intro h3,
+.intro p{color:#f3efef;}
+.intro h3{padding-top:45px; font-size:30px; line-height:30px; padding-bottom:14px;}
+.intro p{font-size: 14px; line-height:24px;}
+.intro p em{font-style:normal; text-decoration:underline;}
+
+.intro .stage_content{padding-top:70px;}
+.intro .stage_content h1{text-align:center; padding-bottom:60px;}
+.intro .container .stage_content{position:relative;}
+.intro .stage_content img{position:absolute; left:300px;}
+
+/* carousel */
+.home_carousel{position:absolute; right:0; top:100px;}
+.table_backer img{position:absolute; right:30px; top:-12px;}
+.nivoSlider_mod {position:relative; width:619px; height:296px; background:url("../vendor/nivo-carousel/themes/default/loading.gif") no-repeat 50% 50%;}
+.nivoSlider_mod img {position:absolute; top:0px; left:0px;}
+.home_carousel a.nivo-prevNav,
+.home_carousel a.nivo-nextNav{display:block; text-indent:-9999px; width:30px; height:30px;}
+.home_carousel a.nivo-prevNav{background:url("../images/carousel/arrows.png") no-repeat; left:15px;}
+.home_carousel a.nivo-nextNav{background:url("../images/carousel/arrows.png") no-repeat; background-position: -30px 0; right:15px;}
+.nivoSlider_mod a{border:0; display:none;}
+.nivo-controlNav .nivo-control{display:none;}
+
+
+
+/* footer */
+
+
+footer{background:url("../images/body/stage_background_pattern.jpg"); height:200px; padding:20px 0 0;	}
+footer .container{position:relative;}
+footer a{color:#bebdbc;}
+footer a:hover{color:#bebdbc; opacity:0.8; text-decoration:none;}
+footer .facebook{background:url("../images/footer/facebook_icon.png") 0 50% no-repeat; padding-left:20px; position:absolute; left:0; top:0 color:#bebdbc;}
+footer p.copyright{font-size:12px; text-align:center; color:#bebdbc;}
+footer .recluse{color:#fff; font-size:12px; position:absolute; right:0; top:0}
+footer .recluse span{color:#c61716;}
+footer .recluse:hover{text-decoration:none; opacity:0.8;}
+
+.fixed_footer{position:fixed; bottom:0; width:100%; background:url("../images/footer/floating_footer_repeater.png")repeat-x; height:67px;}
+.fixed_footer p{text-align:center; color:#8b8b8b; font-size:18px; padding-top:20px;}
+.fixed_footer p a{ background:url("../images/footer/apd_icon.png") 100% 0 no-repeat; padding-right:30px;}
+
+
+/* various pages and stuffs, yo */
+/* ______________________________________________________________________*/
+
+/* home */
+.body .developed{background:url("../images/body/home/house_icon.png") 0 0 no-repeat;}
+.body .developed h4{padding-left:85px;}
+.body .tradies{background:url("../images/body/home/hardhat_icon.png") 100% 0 no-repeat;}
+.body .tradies h4{padding-top:10px;}
+
+.body .testimonials_home{margin-top:200px; padding: 0 20px;}
+.body .testimonials_home p{color:#c61716; font-style:italic; font-size:18px; padding-bottom:0}
+.body .testimonials_home p.name{font-style:normal; color:#896262; font-size:12px; text-align:right;}
+.body .testimonials_home img{position:relative; left: 140px;}
+
+.from_here{margin-bottom:80px;}
+.from_here h4{text-align: center; color:#989898; padding-top:10px;}
+.from_here h4 strong{color:#c61716; font-weight:normal;}
+
+.sticky_note{background:url("../images/body/home/sticky_note.png") 0 0 no-repeat; width:381px; height:401px; padding:20px;}
+.sticky_note p{padding-bottom:14px;}
+.sticky_note img{padding-bottom:20px;}
+.sticky_note button{}
+
+
+/* process */
+.process .step{background:url("../images/body/process/steps/backer.png") 0 100% no-repeat; padding:20px 20px 5px;}
+.process .final h4,
+.process .step h4{text-align:center;}
+.process .final img,
+.process .step img{margin:0 auto; display:block; padding-bottom:20px;}
+.process .final{padding-top:60px;}
+
+.testimonials_process{background:#eee ; border-radius:5px; padding:15px 20px 8px 20px; margin:40px 0; border:none;}
+.testimonials_process p {padding:0; text-align:right;}
+.testimonials_process p q{color:#c61716; font-style:italic;}
+.testimonials_process p cite{color:#333;}
+
+.checklist li{padding:12px 0 12px 50px; background:url("../images/body/process/tick.png") 0 50% no-repeat;}
+
+/* projects */
+#gallery {overflow: hidden;}
+#gallery .cover {float: left; position: relative; color: #000; padding-bottom:20px; overflow:hidden;}
+#gallery .cover span {display: none; font-size: 18px; position: absolute; bottom: 20px; left: 0; padding:20px 0 20px 50px; background:url("../images/body/gallery/play.png") 10px 50% no-repeat #000; width:260px; opacity:0.8; color:#fff;}
+
+/* gallery pages */
+.intro .zen_gallery{height:415px;}
+.intro .zen_gallery a.back{margin-top:60px;}
+.gallery_content p{text-align:center; color:#09f;}
+.intro .gallery_shadow{position:relative;}
+.intro .gallery_shadow img{position:absolute; left:150px; top:-20px;}
+
+/* carousel in the gallery */
+.gallery_carousel{position:relative; padding-top:20px; background-colour:000;}
+.nivoSlider_gallery {position:relative; width:940px; height:340px; background:url("../vendor/nivo-slider/themes/default/loading.gif") no-repeat 50% 50%;}
+.table_backer img{position:absolute;}
+.nivoSlider_gallery img {position:absolute; top:0px; left:0px; display:none;}
+.nivoSlider_gallery a {border:0; display:block;}
+.gallery_carousel a.nivo-prevNav,
+.gallery_carousel a.nivo-nextNav{display:block; text-indent:-9999px; width:30px; height:30px;}
+.gallery_carousel a.nivo-prevNav{background:url("../images/carousel/arrows.png") no-repeat; left:15px;}
+.gallery_carousel a.nivo-nextNav{background:url("../images/carousel/arrows.png") no-repeat; background-position: -30px 0; right:15px;}
+.gallery_carousel .nivoSlider_gallery a:hover{opacity:0.8;}
+
+
+
+/* contact */
+.contact_drop{display:none; padding-top:40px; border-top:10px solid #C61716; background-color:#efefef;}
+.contact_drop .form-actions{background:none; border:none;}
+
+
+.contact input,
+.contact textarea{border:5px solid #ccc; border-radius:5px; font-size:18px; padding:10px; background-color:#ece9f7;}

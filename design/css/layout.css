@@ -115,11 +115,11 @@ footer .recluse:hover{text-decoration:none; opacity:0.8;}
 .sticky_note{background:url("../images/body/home/sticky_note.png") 0 0 no-repeat; width:381px; height:401px; padding:20px;}
 .sticky_note p{padding-bottom:14px;}
 .sticky_note img{padding-bottom:20px;}
-.sticky_note button{}
+.sticky_note .paperbutton{margin-top:10px;}
 
 
 /* process */
-.process .step{background:url("../images/body/process/steps/backer.png") 0 100% no-repeat; padding:20px 20px 5px;}
+.process .step{background:url("../images/body/process/steps/backer.png") 0 100% no-repeat; padding:20px 20px 5px; min-height: 333px;}
 .process .final h4,
 .process .step h4{text-align:center;}
 .process .final img,
@@ -145,7 +145,8 @@ footer .recluse:hover{text-decoration:none; opacity:0.8;}
 .intro .gallery_shadow{position:relative;}
 .intro .gallery_shadow img{position:absolute; left:150px; top:-20px;}
 
-/* carousel in the gallery */
+/* carousel in the gallery ---- REMOVED */ 
+/*
 .gallery_carousel{position:relative; padding-top:20px; background-colour:000;}
 .nivoSlider_gallery {position:relative; width:940px; height:340px; background:url("../vendor/nivo-slider/themes/default/loading.gif") no-repeat 50% 50%;}
 .table_backer img{position:absolute;}
@@ -156,7 +157,15 @@ footer .recluse:hover{text-decoration:none; opacity:0.8;}
 .gallery_carousel a.nivo-prevNav{background:url("../images/carousel/arrows.png") no-repeat; left:15px;}
 .gallery_carousel a.nivo-nextNav{background:url("../images/carousel/arrows.png") no-repeat; background-position: -30px 0; right:15px;}
 .gallery_carousel .nivoSlider_gallery a:hover{opacity:0.8;}
+*/
 
+.intro .zen_gallery img{padding-top:110px; position: relative; z-index: 400}
+#gallery .row{padding:0 0 20px 0;}
+#gallery img{transition: all .25s ease-in-out; -moz-transition: all .25s ease-in-out; -webkit-transition: all .25s ease-in-out;}
+#gallery img:hover{opacity:0.4;}
+
+
+#modal-gallery{background:(255,255,255,0.8)}
 
 
 /* contact */

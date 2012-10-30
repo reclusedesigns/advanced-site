@@ -54,7 +54,7 @@
 		<section>
 			<div class="row">
 				<div class="span4">
-					<h4>"We should meet. What should i bring?"</h4>
+					<h4>"We should meet. What should I bring?"</h4>
 					<p>There are a few things we need to make sure that we can give you an accurate quote.</p>
 				</div>
 				<div class="span3">
@@ -67,7 +67,7 @@
 				</div>
 				<div class="span5">
 					<h4>Don't have those things? No sweat.</h4>
-					<p>We can take you through the entire process from <br>design to construction. Give us a call <strong>(03) 9379 9935 </strong>on to find out how.</p>
+					<p>We can take you through the entire process from <br>design to construction. Give us a call on <strong>(03) 9379 9935 </strong> to find out how.</p>
 					<p></p>
 				</div>
 			</div>

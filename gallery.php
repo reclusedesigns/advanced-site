@@ -18,64 +18,55 @@
 			<div class="row" id="gallery">
 				<div class="span4">
 					<div class="cover">
-						<a href="house1.php">
-							<img src="design/images/gallery/cover/1.jpg" alt="" />
+						<a href="cumberland.php">
+							<img src="design/images/gallery/cumberland/cover.jpg" alt="" />
 							<span>
-								73 Something Street
+								Cumberland Street
 							</span>
 						</a>
 					</div> 
 				</div>
 				<div class="span4">
 					<div class="cover">
-						<a href="gallery-1.html">
-							<img src="design/images/gallery/cover/1.jpg" alt="" />
+						<a href="cuthbert.php">
+							<img src="design/images/gallery/cuthbert/cover.jpg" alt="" />
 							<span>
-								73 Something Street
+								Cuthbert Street
 							</span>
 						</a>
 					</div> 
 				</div>
 				<div class="span4">
 					<div class="cover">
-						<a href="gallery-1.html">
-							<img src="design/images/gallery/cover/1.jpg" alt="" />
+						<a href="darley.php">
+							<img src="design/images/gallery/darley/cover.jpg" alt="" />
 							<span>
-								73 Something Street
+								Darley Street
 							</span>
 						</a>
 					</div> 
 				</div>
 				<div class="span4">
 					<div class="cover">
-						<a href="gallery-1.html">
-							<img src="design/images/gallery/cover/1.jpg" alt="" />
+						<a href="maldon.php">
+							<img src="design/images/gallery/maldon/cover.jpg" alt="" />
 							<span>
-								73 Something Street
+								Maldon Street
 							</span>
 						</a>
 					</div> 
 				</div>
 				<div class="span4">
 					<div class="cover">
-						<a href="gallery-1.html">
-							<img src="design/images/gallery/cover/1.jpg" alt="" />
+						<a href="templestowe.php">
+							<img src="design/images/gallery/templestowe/cover.jpg" alt="" />
 							<span>
-								73 Something Street
+								Templestowe
 							</span>
 						</a>
 					</div> 
 				</div>
-				<div class="span4">
-					<div class="cover">
-						<a href="gallery-1.html">
-							<img src="design/images/gallery/cover/1.jpg" alt="" />
-							<span>
-								73 Something Street
-							</span>
-						</a>
-					</div> 
-				</div>
+				
 			</div> <!-- row -->
 		</section>
 	</div>

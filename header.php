@@ -9,16 +9,20 @@
 	<link rel="stylesheet" href="design/vendor/bootstrap/css/bootstrap.css" type="text/css" media="screen" charset="utf-8">
 	<link rel="stylesheet" href="design/css/layout.css" type="text/css" media="screen" charset="utf-8">
 	<link rel="stylesheet" href="design/vendor/nivo-carousel/nivo-slider.css" type="text/css" media="screen" />
+	<link rel="stylesheet" href="design/vendor/bootstrap-gallery/css/bootstrap-image-gallery.css">
 	
 	<!-- the javascriptage -->
 	<script src="design/vendor/jquery.js" type="text/javascript" charset="utf-8"></script>
 	<script src="design/vendor/bootstrap/js/bootstrap.js" type="text/javascript" charset="utf-8"></script>
 	<script src="design/vendor/scrollto.js" type="text/javascript" charset="utf-8"></script>
 	<script src="design/vendor/nivo-carousel/jquery.nivo.slider.pack.js" type="text/javascript"></script>
+	<script src="http://blueimp.github.com/JavaScript-Load-Image/load-image.min.js"></script>
+	<script src="design/vendor/bootstrap-gallery/js/bootstrap-image-gallery.min.js"></script>
 	<script src="design/scripts/toys.js" type="text/javascript" charset="utf-8"></script>
 
 	<!-- typekit! -->
-	
+	<script type="text/javascript" src="//use.typekit.net/iix6nci.js"></script>
+	<script type="text/javascript">try{Typekit.load();}catch(e){}</script>	
 	
 </head>
 

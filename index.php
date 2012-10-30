@@ -6,8 +6,10 @@
 			<div class="container">
 				<div class="home_carousel">
 					<div id="slider" class="nivoSlider nivoSlider_gallery">
-						<img src="design/images/body/gallery/gallery1/slide1.jpg">
-						<img src="design/images/body/gallery/gallery1/slide2.jpg">
+						<img src="design/images/carousel/slide1.jpg">
+						<img src="design/images/carousel/slide2.jpg">
+						<img src="design/images/carousel/slide3.jpg">
+						<img src="design/images/carousel/slide4.jpg">
 					</div>
 				</div> <!-- carousel -->
 			</div> <!-- container -->
@@ -26,7 +28,7 @@
 						<p>Advanced Property Construction is a family of building professionals. Being a third generation builder, Advanced Property Construction holds a wealth of experience and knowledge in all aspects of Construction.
 						</p>
 
-						<p>Having had completed projects in both high end conventional housing and high rise modern building, Advanced Property Construction offers the perfect marriage between old and new construction techniques, ensuring that all projects exceed the clients expectations in quality and time. 
+						<p>Having had completed projects in both high end conventional housing and high rise modern building, Advanced Property Construction offers the perfect marriage between old and new construction techniques, ensuring that all projects exceed the clients expectations in quality and time.
 						</p>
 					</div>
 				</div> 
@@ -40,12 +42,12 @@
 				<div class="span5">
 					<div class="sticky_note">
 						<h4>Our work</h4>
-						<p>We worked hard to build these - please <a href="projects.html">have a look.</a></p>
-							<img class="span2" src="http://placehold.it/170x100">
-							<img class="span2" src="http://placehold.it/170x100">
-							<img class="span2" src="http://placehold.it/170x100">
-							<img class="span2" src="http://placehold.it/170x100">		
-							<a href="projects.html" class="btn btn-primary">
+						<p>We worked hard to build these - please <a href="gallery.php">have a look.</a></p>
+							<img class="span2" src="design/images/gallery/cumberland/cover.jpg">
+							<img class="span2" src="design/images/gallery/cuthbert/cover.jpg">
+							<img class="span2" src="design/images/gallery/darley/cover.jpg">
+							<img class="span2" src="design/images/gallery/templestowe/cover.jpg">
+							<a href="gallery.php" class="btn btn-primary paperbutton">
 								<i class="icon-camera icon-white"></i>
 								See more
 							</a>

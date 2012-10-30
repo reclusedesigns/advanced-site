@@ -38,8 +38,8 @@
 				<ul class="nav pull-right">
 					<li><img src="design/images/header/builder_badges.png"></li>
 					<li><a href="#" class="first">&nbsp;</a></li>
-					<li class="<?php echo ($page_name=='process.php')?'active':'';?>"><a href="process" class="process">Process</a></li>
-					<li <?php echo ($page_name=='gallery.php')?'active':'';?>><a href="gallery" class="projects">Projects</a></li>
+					<li class="<?php echo ($page_name=='process.php')?'active':'';?>"><a href="process.php" class="process">Process</a></li>
+					<li <?php echo ($page_name=='gallery.php')?'active':'';?>><a href="gallery.php" class="projects">Projects</a></li>
 					<li><a href="#" class="contact js_contact_click">Contact</a></li>
 					<li><a href="#" class="last">&nbsp;</a></li>
 				</ul>

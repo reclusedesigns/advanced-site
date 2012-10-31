@@ -34,7 +34,7 @@
 		<?php $full_name = $_SERVER['PHP_SELF']; $name_array = explode('/',$full_name); $count = count($name_array); $page_name = $name_array[$count-1];?>
     <div class="navbar-inner">
       <div class="container">
-        <a class="brand" href="index">Advanced Property Construction</a>
+        <a class="brand" href="index.php">Advanced Property Construction</a>
 				<ul class="nav pull-right">
 					<li><img src="design/images/header/builder_badges.png"></li>
 					<li><a href="#" class="first">&nbsp;</a></li>

@@ -21,7 +21,7 @@
 						<a href="cumberland.php">
 							<img src="design/images/gallery/cumberland/cover.jpg" alt="" />
 							<span>
-								Cumberland Street
+								Modern 54 Sq. Home
 							</span>
 						</a>
 					</div> 
@@ -31,17 +31,17 @@
 						<a href="cuthbert.php">
 							<img src="design/images/gallery/cuthbert/cover.jpg" alt="" />
 							<span>
-								Cuthbert Street
+								High End Unit Development
 							</span>
 						</a>
 					</div> 
 				</div>
 				<div class="span4">
 					<div class="cover">
-						<a href="darley.php">
-							<img src="design/images/gallery/darley/cover.jpg" alt="" />
+						<a href="caroline.php">
+							<img src="design/images/gallery/caroline/cover.jpg" alt="" />
 							<span>
-								Darley Street
+								Single Storey Family Home
 							</span>
 						</a>
 					</div> 
@@ -58,10 +58,40 @@
 				</div>
 				<div class="span4">
 					<div class="cover">
+						<a href="pascoe.php">
+							<img src="design/images/gallery/pascoe/cover.jpg" alt="" />
+							<span>
+								Family Home Extension
+							</span>
+						</a>
+					</div> 
+				</div>
+				<div class="span4">
+					<div class="cover">
+						<a href="darley.php">
+							<img src="design/images/gallery/darley/cover.jpg" alt="" />
+							<span>
+								45 Sq. Family Home
+							</span>
+						</a>
+					</div> 
+				</div>
+				<div class="span4">
+					<div class="cover">
+						<a href="pheonix.php">
+							<img src="design/images/gallery/pheonix/cover.jpg" alt="" />
+							<span>
+								Multi Unit Development
+							</span>
+						</a>
+					</div> 
+				</div>
+					<div class="span4">
+					<div class="cover">
 						<a href="templestowe.php">
 							<img src="design/images/gallery/templestowe/cover.jpg" alt="" />
 							<span>
-								Templestowe
+								Minor Home Extension
 							</span>
 						</a>
 					</div> 

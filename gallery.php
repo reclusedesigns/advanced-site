@@ -51,7 +51,7 @@
 						<a href="maldon.php">
 							<img src="design/images/gallery/maldon/cover.jpg" alt="" />
 							<span>
-								Maldon Street
+								Double Storey Side by Side Town Houses
 							</span>
 						</a>
 					</div> 

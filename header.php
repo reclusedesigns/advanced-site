@@ -50,8 +50,8 @@
 		<div class="container">
 			<div class="row">
 				<div class="span4">
-					<h4><span>Talk to a real person by calling </span> (03) 9379 9935</h4>
-					<p>Or send us an email by filling out the form over here</p>
+					<h4><span>Feel free to call us on <br></span> (03) 9379 9935</h4>
+					<p>Or send us an email by filling out the form</p>
 				</div>
 				<div class="offset1 span4">
 				<form class="form-horizontal" action="mailer.php" method="POST">

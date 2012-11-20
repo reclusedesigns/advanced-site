@@ -13,52 +13,19 @@
 	
 	<div class="container">
 		<div id="gallery" data-toggle="modal-gallery" data-target="#modal-gallery">
+			<h2>Before</h2>
 			<div class="row">
-			
 				<div class="span2">
 					<a href="design/images/gallery/pascoe/normal/1.jpg" rel="gallery"><img src="design/images/gallery/pascoe/thumbs/1.jpg" alt="1" width="140" height="140" /></a>
 				</div>
-				<div class="span2">
-					<a href="design/images/gallery/pascoe/normal/2.jpg" rel="gallery"><img src="design/images/gallery/pascoe/thumbs/2.jpg" alt="1" width="140" height="140" /></a>
-				</div>
-				<div class="span2">
-					<a href="design/images/gallery/pascoe/normal/3.jpg" rel="gallery"><img src="design/images/gallery/pascoe/thumbs/3.jpg" alt="1" width="140" height="140" /></a>
-				</div>
-				<div class="span2">
-					<a href="design/images/gallery/pascoe/normal/4.jpg" rel="gallery"><img src="design/images/gallery/pascoe/thumbs/4.jpg" alt="1" width="140" height="140" /></a>
-				</div>
+				
 				<div class="span2">
 					<a href="design/images/gallery/pascoe/normal/5.jpg" rel="gallery"><img src="design/images/gallery/pascoe/thumbs/5.jpg" alt="1" width="140" height="140" /></a>
 				</div>
-				<div class="span2">
-					<a href="design/images/gallery/pascoe/normal/6.jpg" rel="gallery"><img src="design/images/gallery/pascoe/thumbs/6.jpg" alt="1" width="140" height="140" /></a>
-				</div>
 				
 			</div>
 			
-			<div class="row">
-			
-				<div class="span2">
-					<a href="design/images/gallery/pascoe/normal/7.jpg" rel="gallery"><img src="design/images/gallery/pascoe/thumbs/7.jpg" alt="1" width="140" height="140" /></a>
-				</div>
-				<div class="span2">
-					<a href="design/images/gallery/pascoe/normal/8.jpg" rel="gallery"><img src="design/images/gallery/pascoe/thumbs/8.jpg" alt="1" width="140" height="140" /></a>
-				</div>
-				<div class="span2">
-					<a href="design/images/gallery/pascoe/normal/9.jpg" rel="gallery"><img src="design/images/gallery/pascoe/thumbs/9.jpg" alt="1" width="140" height="140" /></a>
-				</div>
-				<div class="span2">
-					<a href="design/images/gallery/pascoe/normal/10.jpg" rel="gallery"><img src="design/images/gallery/pascoe/thumbs/10.jpg" alt="1" width="140" height="140" /></a>
-				</div>
-				<div class="span2">
-					<a href="design/images/gallery/pascoe/normal/11.jpg" rel="gallery"><img src="design/images/gallery/pascoe/thumbs/11.jpg" alt="1" width="140" height="140" /></a>
-				</div>
-				<div class="span2">
-					<a href="design/images/gallery/pascoe/normal/12.jpg" rel="gallery"><img src="design/images/gallery/pascoe/thumbs/12.jpg" alt="1" width="140" height="140" /></a>
-				</div>
-				
-			</div>
-			
+			<h2>After</h2>
 			<div class="row">
 			
 				<div class="span2">
@@ -98,45 +65,17 @@
 					<a href="design/images/gallery/pascoe/normal/22.jpg" rel="gallery"><img src="design/images/gallery/pascoe/thumbs/22.jpg" alt="1" width="140" height="140" /></a>
 				</div>
 				<div class="span2">
-					<a href="design/images/gallery/pascoe/normal/23.jpg" rel="gallery"><img src="design/images/gallery/pascoe/thumbs/23.jpg" alt="1" width="140" height="140" /></a>
+					<a href="design/images/gallery/pascoe/normal/10.jpg" rel="gallery"><img src="design/images/gallery/pascoe/thumbs/10.jpg" alt="1" width="140" height="140" /></a>
 				</div>
 				<div class="span2">
-					<a href="design/images/gallery/pascoe/normal/24.jpg" rel="gallery"><img src="design/images/gallery/pascoe/thumbs/12.jpg" alt="1" width="140" height="140" /></a>
+					<a href="design/images/gallery/pascoe/normal/11.jpg" rel="gallery"><img src="design/images/gallery/pascoe/thumbs/11.jpg" alt="1" width="140" height="140" /></a>
 				</div>
+
+
 				
 			</div>
 			
-			<div class="row">
-			
-				<div class="span2">
-					<a href="design/images/gallery/pascoe/normal/25.jpg" rel="gallery"><img src="design/images/gallery/pascoe/thumbs/25.jpg" alt="1" width="140" height="140" /></a>
-				</div>
-				<div class="span2">
-					<a href="design/images/gallery/pascoe/normal/26.jpg" rel="gallery"><img src="design/images/gallery/pascoe/thumbs/26.jpg" alt="1" width="140" height="140" /></a>
-				</div>
-				<div class="span2">
-					<a href="design/images/gallery/pascoe/normal/27.jpg" rel="gallery"><img src="design/images/gallery/pascoe/thumbs/27.jpg" alt="1" width="140" height="140" /></a>
-				</div>
-				<div class="span2">
-					<a href="design/images/gallery/pascoe/normal/28.jpg" rel="gallery"><img src="design/images/gallery/pascoe/thumbs/28.jpg" alt="1" width="140" height="140" /></a>
-				</div>
-				<div class="span2">
-					<a href="design/images/gallery/pascoe/normal/29.jpg" rel="gallery"><img src="design/images/gallery/pascoe/thumbs/29.jpg" alt="1" width="140" height="140" /></a>
-				</div>
-				<div class="span2">
-					<a href="design/images/gallery/pascoe/normal/30.jpg" rel="gallery"><img src="design/images/gallery/pascoe/thumbs/30.jpg" alt="1" width="140" height="140" /></a>
-				</div>
-				
-			</div>
-			
-			<div class="row">
-			
-				<div class="span2">
-					<a href="design/images/gallery/pascoe/normal/31.jpg" rel="gallery"><img src="design/images/gallery/pascoe/thumbs/31.jpg" alt="1" width="140" height="140" /></a>
-				</div>
-				<div class="span2">
-					<a href="design/images/gallery/pascoe/normal/32.jpg" rel="gallery"><img src="design/images/gallery/pascoe/thumbs/32.jpg" alt="1" width="140" height="140" /></a>
-				</div>
+
 				
 				
 			</div>

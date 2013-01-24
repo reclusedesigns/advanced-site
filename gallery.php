@@ -86,12 +86,33 @@
 						</a>
 					</div> 
 				</div>
-					<div class="span4">
+				<div class="span4">
 					<div class="cover">
 						<a href="templestowe.php">
 							<img src="design/images/gallery/templestowe/cover.jpg" alt="" />
 							<span>
 								Minor Home Extension
+							</span>
+						</a>
+					</div> 
+				</div>
+				<div class="span4">
+					<div class="cover">
+						<a href="new1.php">
+							<img src="design/images/gallery/new1/cover.jpg" alt="" />
+							<span>
+								Large Extension Renovation
+							</span>
+						</a>
+					</div> 
+				</div>
+				
+				<div class="span4">
+					<div class="cover">
+						<a href="new2.php">
+							<img src="design/images/gallery/new2/cover.jpg" alt="" />
+							<span>
+								Large Double Storey Townhouses
 							</span>
 						</a>
 					</div> 

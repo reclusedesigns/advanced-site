@@ -13,9 +13,9 @@ $body = " From: $name_field\n\n E-Mail: $email_field\n\n Message:\n\n $comment";
  
 // ...and away we go!
 mail($to, $subject, $body);
- 
+
 // redirect to confirmation
-header('Location: confirmation.htm');
+header('Location: confirmation.php');
 } else {
 // handle the error somehow
 }

@@ -49,11 +49,11 @@
 	<div class="contact_drop js_contact_toggle">	
 		<div class="container">
 			<div class="row">
-				<div class="span4">
+				<div class="span6">
 					<h4><span>Feel free to call us on <br></span> (03) 9379 9935</h4>
-					<p>Or send us an email by filling out the form</p>
+					<h4><span>Or come see us at</span><br>Suite 9/12 Pascoevale Road,<br>Moonee Ponds 3039</h4>
 				</div>
-				<div class="offset1 span4">
+				<div class="span4">
 				<form class="form-horizontal" action="mailer.php" method="POST">
 					<fieldset>
 						<div class="control-group">
